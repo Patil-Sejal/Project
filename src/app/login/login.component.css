@@ -1,0 +1,35 @@
+.mb-3{
+
+  text-align: center;
+  font-size: 0.9rem;
+  letter-spacing: 0.05rem;
+  /* padding: 0.60rem 1rem; */
+  font-weight: 300;
+}
+
+/* .bg-image {
+  background-image: url('https://source.unsplash.com/WEQbe2jBg40/600x1200');
+  background-size: cover;
+  background-position: center;
+} */
+.right-section {
+  flex: 1;
+  background: linear-gradient(to right, #06f5bd 0%, #08fd4d 100%);
+  transition: 1s;
+  background-image: url(https://img.freepik.com/premium-vector/courier-with-parcel-background-delivery-service-van_327176-173.jpg?w=1060);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.login-heading {
+  font-weight: 300;
+}
+
+.btn-primary {
+  float: initial;
+   text-align: center;
+  font-size: 0.9rem;
+  letter-spacing: 0.05rem;
+  padding: 0.75rem 1rem;
+}
